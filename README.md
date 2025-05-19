@@ -2,13 +2,13 @@
 A active workshop where we will design and craft personal stamps!
 
 ## why?
-In a time where education is being pulled to the digital envirement more and more, it is important that students dont forget how to do some hands on learning! During this workshop they will combine their digital making and their hands on making. By making a stamp in specifically, students will have a item that will be reusable for a long time.
+In a time where education is being pulled to the digital envirement more and more, it is important that students dont forget how to do some hands on learning! During this workshop they will combine their digital making and their hands on crafting. By making a stamp in specifically, students will have a item that will be reusable for a long time and can leave many memories.
 
 ## What
-The students will be designing and crafting personal stamps of one of their own pictures or own designs using free online converters and a physical sustainable wood-like material, in this case cow waste.
+The students will be designing and crafting personal stamps of one of their own pictures or own designs using free online converters and a physical sustainable wood-like material
 
-![Adobe Express - file](https://github.com/user-attachments/assets/fb546f3d-9f8d-4114-bc01-3a82ab951883)
-
+![Adobe Express - file](https://github.com/user-attachments/assets/fb546f3d-9f8d-4114-bc01-3a82ab951883)  
+*A stamp made of "cow waste*
 
 ## Who, Where, How long
 
@@ -28,13 +28,13 @@ If you want to make your own stamp we would suggest to just do it! No stamp is a
 
 But if this is your first time crafting something physical with a laser cutter, dont worry, we still got some tips for you:
 
-If you have access to the laser cutters in the HvA Makerslab, we recommend checking out their website for extra information:
+If you have access to the laser cutters in the HvA Makerslab, we recommend checking out their website for extra information
 
 [HvA Makerslab – Lasersnijder](https://www.hva.nl/samenwerken/labs/makerslab/lasersnijder)
 
 And don’t forget to take a look at the cheat sheet at the bottom of the page!
 
-If you want to use the laser cutter, you will need a material to cut into. You can either buy any suitable material that is thick enough to cut in but you can also try making your own sustainable bio material. For more infor please check out 
+If you want to use the laser cutter, you will need a material to cut into. You can either buy any suitable material that is thick enough to cut in but you can also try making your own sustainable bio material. For more info please check out 
 
 [Hands-On: Zo maak je biomaterialen](https://www.nike.com/be/a/hands-on-zo-maak-je-biomaterialen)
 
