@@ -34,6 +34,11 @@ If you have access to the laser cutters in the HvA Makerslab, we recommend check
 
 And don’t forget to take a look at the cheat sheet at the bottom of the page!
 
+If you want to use the laser cutter, you will need a material to cut into. You can either buy any suitable material that is thick enough to cut in but you can also try making your own sustainable bio material. For more infor please check out 
+
+[Hands-On: Zo maak je biomaterialen](https://www.nike.com/be/a/hands-on-zo-maak-je-biomaterialen)
+
+Additionally, if you have access to the HvA Biolab, you can preview many different  examples and ask the staff for more information.
 
 
 
