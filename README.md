@@ -10,7 +10,13 @@ The students will be designing and crafting personal stamps using free online co
 ![Adobe Express - file](https://github.com/user-attachments/assets/fb546f3d-9f8d-4114-bc01-3a82ab951883)
 
 
-## Who?, Where?, How long?
+## Who, Where, How long
+
+**Who:** The workshop is suited for students in advanced studies
+
+**Where:** The workshop will be most suited for places equipped with lasercutters.
+
+**How long:** The workshop will take approximately 90 minutes.
 
 ## Preperation
 
