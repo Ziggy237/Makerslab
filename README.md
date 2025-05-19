@@ -9,6 +9,6 @@ A active workshop where we will design and craft personal stamps!
 
 ## Preperation
 
-## Extra information about the topic
+## Extra info
 
 ## The workshop
