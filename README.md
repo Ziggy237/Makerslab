@@ -26,7 +26,16 @@ Additionally depending on what a student wants to make, they can bring either a 
 ## Extra info
 If you want to make your own stamp we would suggest to just do it! No stamp is alike or made in the same way. With trial and error you will eventually make a stamp to your liking.
 
-But if this is your first time crafting something physical with a laser cutter, dont worry, we still got some tips for you.
+But if this is your first time crafting something physical with a laser cutter, dont worry, we still got some tips for you:
+
+If you have access to the laser cutters in the HvA Makerslab, we recommend checking out their website for extra information:
+
+[HvA Makerslab – Lasersnijder](https://www.hva.nl/samenwerken/labs/makerslab/lasersnijder)
+
+And don’t forget to take a look at the cheat sheet at the bottom of the page!
+
+
+
 
 
 
